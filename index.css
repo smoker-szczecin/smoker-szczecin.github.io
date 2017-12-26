@@ -675,8 +675,8 @@ display: none;
         justify-content:space-around;
         color: white;
                 box-shadow: 10px 0px 50px black;
-        padding-top: 10px;
-        padding-bottom: 10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
         overflow: auto;
     }
     #secondDivMobile div{

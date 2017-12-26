@@ -722,20 +722,20 @@ display: none;
         
     }
     #mobileHeader div{
-        width: 200px;
+        padding: 0px;
         padding-top: 20px;
-        padding-left: 40px;
+        
     }
     #mobileHeader img{
-        margin-left: 10px;
-        width: 50px;
-        height: 70px;
+    
+        width: 5%;
+        
     }
     #mobileHeader a{
-        font-size: 30px;
+        font-size: 20px;
     }
     #mobileHeader img:nth-of-type(2){
-        width: 150px;
+        width: 25%;
     }
     #callMobile{
     position: fixed;

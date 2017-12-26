@@ -603,6 +603,8 @@ body > section:nth-of-type(4) > div:nth-of-type(6){
     
     body{
         font-family: Muli;
+        overflow-x: hidden;
+        
     }
     #firstDivMobile{
         margin-top: 50px;
